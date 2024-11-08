@@ -10,19 +10,9 @@ Parts 1 and 2: Database Setup and Updates
 6. Updated the data type of latitude and longitude to double, and rating to integer, and then checked that they were successfully changed
 
 Part 3: Analysis
-1. Which establishments have a hygiene score equal to 20?
-    41 establishments have a hygiene score of 20
-    First result business name: The Chase Rest Home'
-2: Which establishments in London have a RatingValue greater than or equal to 4?
-    33 establishments
-    First result business name: Charlie's
-3: What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant Penang Flavours?
-    Lucky Food & Wine
-    Everest Stores Ltd
-    Premier Express
-    Fineway Cash & Carry
-    TIWA N TIWA African Restaurant Ltd
-    They are sorted by hygiene score, but all of the ones above have a hygiene score of 5
+1. Which establishments have a hygiene score equal to 20: 41 establishments have a hygiene score of 20, first result is The Chase Rest Home
+2: Which establishments in London have a RatingValue greater than or equal to 4: 33 establishments, first result is Charlie's
+3: What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant Penang Flavours: Lucky Food & Wine, Everest Stores Ltd, Premier Express, Fineway Cash & Carry, TIWA N TIWA African Restaurant Ltd
 4: How many establishments in each Local Authority area have a hygiene score of 0? (Sorted from Highest to Lowest)
     The top 10 results listed with name and amount of establishments are:
     Thanet	1130
